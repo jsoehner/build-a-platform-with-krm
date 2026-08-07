@@ -1,5 +1,7 @@
 ![](screenshots/logo.png)
 
+[![HIPAA](https://app.soluble.cloud/api/v1/public/badges/4607a225-4b0e-41ca-b238-40a75bbda1ee.svg)](https://app.soluble.cloud/repos/details/github.com/jsoehner/build-a-platform-with-krm)  [![CIS](https://app.soluble.cloud/api/v1/public/badges/48939280-236c-4fcc-a070-45db7b9e1ad4.svg)](https://app.soluble.cloud/repos/details/github.com/jsoehner/build-a-platform-with-krm)  [![IaC](https://app.soluble.cloud/api/v1/public/badges/f422e1fe-1c98-46d3-879a-1c7e7f170e8a.svg)](https://app.soluble.cloud/repos/details/github.com/jsoehner/build-a-platform-with-krm)  
+
 This repository contains the demos for the "Build a Platform with KRM" series.
 
 These demos can be completed standalone - all you need is a Google Cloud project and a GitHub account. 
